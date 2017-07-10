@@ -1,4 +1,5 @@
-# Intrusion Detection System
+# Intrusion Detection System 
+_(Fall: September 2016 - December 2016)_
 
 I designed an **Intrusion Detection System** for security purposes. The project aimed at developing a prototype that could provide a layer of 
 security against intruders and it could also be managed easily by the owner of the system. 
