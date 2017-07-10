@@ -1,5 +1,3 @@
-
-
 #required libraries
 import sys                                 
 import ssl
