@@ -27,7 +27,7 @@ while True:
 	time.sleep(1)
     elif i==1: #when output from motion sensor is high
 	GPIO.output(2,1) #turn on LED
-        server.sendmail("nehaliachrya1@gmail.com","rajat.kachhwaha@gmail.com",msg)
+        server.sendmail("nehaliacharya1@gmail.com","rajat.kachhwaha@gmail.com",msg)
         os.system(nonintru)
 	time.sleep(1)
 #os.system(intru)
